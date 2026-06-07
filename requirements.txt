@@ -1,0 +1,8 @@
+streamlit
+pillow
+easyocr
+pyttsx3
+numpy
+colorspacious
+transformers
+torch
